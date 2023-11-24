@@ -11,3 +11,6 @@ variable "sample" {
 	description = "hello folks "
 }
 
+variable "location" {
+	description = "location "
+}
